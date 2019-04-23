@@ -16,10 +16,10 @@ html {
 
 body {
     font: normal .80em 'trebuchet ms', arial, sans-serif;
-    background: #F0EFE2 url("farm.jpg") no-repeat center center fixed;
-    background-size: cover;
-    background-color: transparent;
-    color: green;
+    background: #F0EFE2 url("repeat.png") no-repeat center center fixed;
+    /* background-size: cover;
+    background-color: transparent; */
+    color: #000;
 }
 
 p {
