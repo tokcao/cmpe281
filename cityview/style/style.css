@@ -7,10 +7,19 @@ html {
     padding: 0;
 }
 
+.header{
+    padding: 60px;
+    text-align: center;
+    background: url("smart-agriculture.jpg");
+    font-size: 30;
+}
+
 body {
     font: normal .80em 'trebuchet ms', arial, sans-serif;
-    background: #F0EFE2 url("repeat.png") repeat;
-    color: #000;
+    background: #F0EFE2 url("farm.jpg") no-repeat center center fixed;
+    background-size: cover;
+    background-color: transparent;
+    color: green;
 }
 
 p {
@@ -22,7 +31,27 @@ img {
     border: 0;
     max-width: 100%;
     max-height: 100%;
+    opacity: 0.5;
 }
+
+/* img.bg{
+min-height: 100%;
+min-width: 1024px;
+
+width: 100%;
+height: auto;
+
+position: fixed;
+top: 0;
+left: 0;
+}
+
+@media screen and (max-width: 1024px){
+    img.bg{
+        left: 50%;
+        margin-left: -512px;
+    }
+} */
 
 h1, h2, h3, h4, h5, h6 {
     font: normal 175% 'century gothic', arial, sans-serif;
