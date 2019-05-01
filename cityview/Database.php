@@ -22,8 +22,8 @@
                 <li><a href="smart_agri_home.html">Home</a></li>
                 <li><a href="About.html">About</a></li>
                 <li><a href="Services.html">Services</a></li>
-                <li><a href="News.html">News</a></li>
-                <li><a href="Contact.php">Contacts</a></li>
+                <li><a href="Fruits.html">Fruits</a></li>
+                <li><a href="Map.html">Map</a></li>
                 <li><a href="Secure.html">Secure</a></li>
                 <li><a href="Data.html">User</a></li>
                 <li><a href="Database.php">Data</a></li>
