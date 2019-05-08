@@ -3,49 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fe121b2c-5c01-4e6f-a943-6731d9df6842" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/cityview/About.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/Data.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/Database.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/Fruits.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/Map.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/Secure.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/Secure.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/Services.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/addfriend.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/addfriend.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/comment.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/contact.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/cookie.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/exchange.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/farm.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/imageMapResizer.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/invisiblemode.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/lastfivecookies.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/message.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/onlinepayment.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/orchrd_with_fruits.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/post.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/scratch.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/setbid.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/share.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/smart-agriculture.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/smart_agri_home.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/sss.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/style/Thumbs.db" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/style/bullet.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/style/farm.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/style/graphic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/style/link.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/style/repeat.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/style/search.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/style/smart-agriculture.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/style/snow.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/style/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/style/transparent.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/style/transparent_light.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/upload.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cityview/user.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/gulian_project281_eshop/Loginpage.php" afterPath="$PROJECT_DIR$/gulian_project281_eshop/Loginpage.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,23 +13,76 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulian_project281_eshop/index.html">
+      <file leaf-file-name="banner.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project281_eshop/images/banner.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cherry_maps.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project281_eshop/images/cherry_maps.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="close.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project281_eshop/images/close.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fruits.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project281_eshop/images/fruits.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project281_eshop/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Loginpage.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gulian_project281_eshop/Loginpage.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-              <folding />
-            </state>
+      <file leaf-file-name="previous.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project281_eshop/images/previous.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parking_lot_maps.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project281_eshop/images/parking_lot_maps.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="orange.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project281_eshop/images/orange.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project281_eshop/images/menu.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="img-sp.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project281_eshop/images/img-sp.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -156,6 +166,11 @@
               <item name="cmpe281" type="b2602c69:ProjectViewProjectNode" />
               <item name="cmpe281" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="cmpe281" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmpe281" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="project281_eshop" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -198,15 +213,16 @@
       <workItem from="1555983205055" duration="12384000" />
       <workItem from="1556585390855" duration="4467000" />
       <workItem from="1557186164851" duration="7456000" />
-      <workItem from="1557280321075" duration="65000" />
+      <workItem from="1557280321075" duration="664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24372000" />
+    <option name="totallyTimeSpent" value="24971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14861111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -430,6 +446,109 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/13.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/11.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/9.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/7.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/banner.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/cherry_maps.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/close.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/previous.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/parking_lot_maps.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/orange.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/menu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/img-sp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/images/fruits.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project281_eshop/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
           <folding />
         </state>
       </provider>
