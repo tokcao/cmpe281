@@ -282,18 +282,39 @@
             <h5 class="card-title">Consumer Review</h5>
         </div>
         <ul class="list-group list-group-flush">
-            <li class="list-group-item">Good product</li>
-            <li class="list-group-item">Poor product</li>
-            <li class="list-group-item">Will buy it again</li>
-            <li class="list-group-item">Don't buy it</li>
-            <li class="list-group-item">I like it</li>
-            <li class="list-group-item">I don't like it</li>
+            <?php
+            $servername = "cmpe281.cncts77r3ktf.us-west-1.rds.amazonaws.com:3306";
+            $username = "cmpe281";
+            $password = "mypassword";
+            $dbname = "cmpe281";
+
+            // Create connection
+            $conn = new mysqli($servername, $username, $password, $dbname);
+
+            // Check connection
+            if ($conn->connect_error) {
+                die("Connection failed: " . $conn->connect_error);
+            }
+            $sql = "SELECT * FROM COMMENT";
+            $result = $conn->query($sql);
+
+            if ($result->num_rows > 0) {
+                // output data of each row
+                while ($row = $result->fetch_assoc()) {
+                    echo "<li class=\"list-group-item\">" . $row["comment"] . "</li>";
+                }
+            } else {
+                echo "0 results";
+            }
+            ?>
         </ul>
     </div>
     <!-- google map-->
     <div id="map_div" class="center_image" style="width:50%; margin:12px"></div>
 </div>
 
+
 </body>
 </html>
+
 

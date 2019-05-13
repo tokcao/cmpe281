@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe121b2c-5c01-4e6f-a943-6731d9df6842" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Project_E-Shop/farmers/productions/apple.php" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/productions/apple.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/db/db_creation.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/db/get_comment.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,22 +16,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="watermelon.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/productions/watermelon.php">
+      <file leaf-file-name="farmerDashboard.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-              <folding />
+            <state relative-caret-position="178">
+              <caret line="296" column="13" lean-forward="false" selection-start-line="296" selection-start-column="13" selection-end-line="296" selection-end-column="13" />
+              <folding>
+                <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1557725301507" expanded="true" signature="11632:11653" ph="SELECT * FRO... COMMENT" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/css/style.css">
+      <file leaf-file-name="db_creation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/db/db_creation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="2701" column="10" lean-forward="true" selection-start-line="2701" selection-start-column="10" selection-end-line="2701" selection-end-column="10" />
-              <folding />
+            <state relative-caret-position="270">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <folding>
+                <marker date="1557724983252" expanded="true" signature="592:610" ph="DROP TABLE U... " />
+                <marker date="1557724983252" expanded="true" signature="783:900" ph="CREATE TABLE... USERS" />
+                <marker date="1557724983252" expanded="true" signature="1072:1140" ph="INSERT INTO CONMENT... " />
+                <marker date="1557724983252" expanded="true" signature="1300:1369" ph="INSERT INTO USERS... " />
+                <marker date="1557724983252" expanded="true" signature="1529:1600" ph="INSERT INTO USERS... " />
+                <marker date="1557724983252" expanded="true" signature="1760:1845" ph="INSERT INTO USERS... " />
+                <marker date="1557724983252" expanded="true" signature="2005:2082" ph="INSERT INTO CONMENT... " />
+                <marker date="1557724983252" expanded="true" signature="2241:2255" ph="SELECT id, f... USERS" />
+                <marker date="1557724983252" expanded="true" signature="2241:2262" ph="SELECT comme... CONMENT" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_comment.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/db/get_comment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="709">
+              <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+              <folding>
+                <marker date="1557724934700" expanded="true" signature="960:981" ph="SELECT * FRO... COMMENT" />
+                <marker date="1557724934700" expanded="true" signature="1865:1886" ph="SELECT * FRO... COMMENT" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -36,8 +79,18 @@
       <file leaf-file-name="farmer_navbar.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/farmer_navbar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
+            <state relative-caret-position="495">
               <caret line="33" column="59" lean-forward="false" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project_E-Shop/single.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2235">
+              <caret line="149" column="24" lean-forward="false" selection-start-line="149" selection-start-column="24" selection-end-line="149" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -46,48 +99,18 @@
       <file leaf-file-name="history.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/history.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+            <state relative-caret-position="330">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="farmerDashboard.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3920">
-              <caret line="291" column="10" lean-forward="false" selection-start-line="291" selection-start-column="10" selection-end-line="291" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Loginpage.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/Loginpage.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="apple.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/productions/apple.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="apricots.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/productions/apricots.php">
+      <file leaf-file-name="shopping.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project_E-Shop/shopping.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="43" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,18 +119,8 @@
       <file leaf-file-name="products.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/products.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
+            <state relative-caret-position="769">
               <caret line="84" column="80" lean-forward="false" selection-start-line="84" selection-start-column="80" selection-end-line="84" selection-end-column="80" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="75" column="55" lean-forward="true" selection-start-line="75" selection-start-column="55" selection-end-line="75" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -168,10 +181,16 @@
         <option value="$PROJECT_DIR$/Project_E-Shop/farmers/productions/watermelon.php" />
         <option value="$PROJECT_DIR$/Project_E-Shop/Loginpage.php" />
         <option value="$PROJECT_DIR$/Project_E-Shop/farmers/products.php" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php" />
         <option value="$PROJECT_DIR$/Project_E-Shop/index.html" />
         <option value="$PROJECT_DIR$/Project_E-Shop/css/style.css" />
         <option value="$PROJECT_DIR$/Project_E-Shop/farmers/productions/apple.php" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/db_creation.php" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/db_creation.php" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/db_function.php" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/get_comment.php" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/db/get_comment.php" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/db/db_creation.php" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php" />
       </list>
     </option>
   </component>
@@ -192,9 +211,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="731" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -224,6 +242,19 @@
               <item name="cmpe281" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Project_E-Shop" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="cmpe281" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmpe281" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Project_E-Shop" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="farmers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cmpe281" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmpe281" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Project_E-Shop" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="farmers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="db" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -239,13 +270,14 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Project_E-Shop/farmers" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Project_E-Shop/farmers/db" />
       <recent name="$PROJECT_DIR$/Project_E-Shop/farmers" />
       <recent name="$PROJECT_DIR$/Project_E-Shop/farmers/productions" />
       <recent name="$PROJECT_DIR$/Project_E-Shop" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Project_E-Shop/farmers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -259,6 +291,20 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.db_creation.php">
+    <configuration name="db_creation.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Project_E-Shop/farmers/db/db_creation.php" />
+    <configuration name="get_comment.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Project_E-Shop/farmers/db/get_comment.php" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.db_creation.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.get_comment.php" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.db_creation.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.get_comment.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -278,23 +324,24 @@
       <workItem from="1557186164851" duration="7456000" />
       <workItem from="1557280321075" duration="2810000" />
       <workItem from="1557522904909" duration="1207000" />
-      <workItem from="1557717417021" duration="1150000" />
+      <workItem from="1557717417021" duration="7533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29474000" />
+    <option name="totallyTimeSpent" value="35857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14861111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14861111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18137848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -338,16 +385,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/project281_eshop/images/11.jpg" />
-    <entry file="file://$PROJECT_DIR$/project281_eshop/images/9.jpg" />
-    <entry file="file://$PROJECT_DIR$/project281_eshop/images/7.jpg" />
-    <entry file="file://$PROJECT_DIR$/project281_eshop/images/5.png" />
-    <entry file="file://$PROJECT_DIR$/project281_eshop/images/5.jpg" />
-    <entry file="file://$PROJECT_DIR$/project281_eshop/images/3.png" />
     <entry file="file://$PROJECT_DIR$/project281_eshop/images/3.jpg" />
     <entry file="file://$PROJECT_DIR$/project281_eshop/images/1.png" />
     <entry file="file://$PROJECT_DIR$/project281_eshop/images/1.jpg" />
@@ -361,13 +404,6 @@
     <entry file="file://$PROJECT_DIR$/project281_eshop/images/img-sp.png" />
     <entry file="file://$PROJECT_DIR$/project281_eshop/images/fruits.jpg" />
     <entry file="file://$PROJECT_DIR$/project281_eshop/index.html" />
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/shopping.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/productions/apple.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -523,38 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/history.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/products.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="84" column="80" lean-forward="false" selection-start-line="84" selection-start-column="80" selection-end-line="84" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/farmer_navbar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="33" column="59" lean-forward="false" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3920">
-          <caret line="291" column="10" lean-forward="false" selection-start-line="291" selection-start-column="10" selection-end-line="291" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project_E-Shop/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
@@ -592,6 +596,114 @@
         <state relative-caret-position="15">
           <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/shopping-starwberry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2235">
+          <caret line="149" column="24" lean-forward="false" selection-start-line="149" selection-start-column="24" selection-end-line="149" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/shopping.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="769">
+          <caret line="84" column="80" lean-forward="false" selection-start-line="84" selection-start-column="80" selection-end-line="84" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/farmer_navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="59" lean-forward="false" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/history.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/db/get_comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <marker date="1557724934700" expanded="true" signature="960:981" ph="SELECT * FRO... COMMENT" />
+            <marker date="1557724934700" expanded="true" signature="1865:1886" ph="SELECT * FRO... COMMENT" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/db/db_creation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <marker date="1557724983252" expanded="true" signature="592:610" ph="DROP TABLE U... " />
+            <marker date="1557724983252" expanded="true" signature="783:900" ph="CREATE TABLE... USERS" />
+            <marker date="1557724983252" expanded="true" signature="1072:1140" ph="INSERT INTO CONMENT... " />
+            <marker date="1557724983252" expanded="true" signature="1300:1369" ph="INSERT INTO USERS... " />
+            <marker date="1557724983252" expanded="true" signature="1529:1600" ph="INSERT INTO USERS... " />
+            <marker date="1557724983252" expanded="true" signature="1760:1845" ph="INSERT INTO USERS... " />
+            <marker date="1557724983252" expanded="true" signature="2005:2082" ph="INSERT INTO CONMENT... " />
+            <marker date="1557724983252" expanded="true" signature="2241:2255" ph="SELECT id, f... USERS" />
+            <marker date="1557724983252" expanded="true" signature="2241:2262" ph="SELECT comme... CONMENT" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="296" column="13" lean-forward="false" selection-start-line="296" selection-start-column="13" selection-end-line="296" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1557725301507" expanded="true" signature="11632:11653" ph="SELECT * FRO... COMMENT" />
+          </folding>
         </state>
       </provider>
     </entry>
