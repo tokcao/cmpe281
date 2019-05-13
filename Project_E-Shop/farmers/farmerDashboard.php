@@ -272,7 +272,6 @@
         <td>
             <div id="quantity_sale_12m" style="width: 500px; height: 300px"></div>
         </td>
-
     </tr>
 </table>
 
@@ -292,7 +291,7 @@
         </ul>
     </div>
     <!-- google map-->
-    <div id="map_div" class="center_image" style="width:50%;height:50%; margin:12px"></div>
+    <div id="map_div" class="center_image" style="width:50%; margin:12px"></div>
 </div>
 
 </body>

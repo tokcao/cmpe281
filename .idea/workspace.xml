@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe121b2c-5c01-4e6f-a943-6731d9df6842" name="Default Changelist" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/farmer_navbar.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/history.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/products.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Project_E-Shop/Loginpage.php" afterPath="$PROJECT_DIR$/Project_E-Shop/Loginpage.php" />
       <change beforePath="$PROJECT_DIR$/Project_E-Shop/css/style.css" afterPath="$PROJECT_DIR$/Project_E-Shop/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/index.html" afterPath="$PROJECT_DIR$/Project_E-Shop/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/productions/watermelon.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+              <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -52,8 +49,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project_E-Shop/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38115">
-              <caret line="2541" column="1" lean-forward="false" selection-start-line="2541" selection-start-column="1" selection-end-line="2541" selection-end-column="1" />
+            <state relative-caret-position="242">
+              <caret line="2701" column="10" lean-forward="true" selection-start-line="2701" selection-start-column="10" selection-end-line="2701" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -62,7 +59,7 @@
       <file leaf-file-name="farmer_navbar.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/farmer_navbar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
+            <state relative-caret-position="447">
               <caret line="33" column="59" lean-forward="false" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
               <folding />
             </state>
@@ -73,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/history.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+              <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -82,18 +79,18 @@
       <file leaf-file-name="farmerDashboard.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2295">
-              <caret line="153" column="25" lean-forward="true" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
+            <state relative-caret-position="3920">
+              <caret line="291" column="10" lean-forward="false" selection-start-line="291" selection-start-column="10" selection-end-line="291" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Loginpage.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Loginpage.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project_E-Shop/Loginpage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            <state relative-caret-position="612">
+              <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -103,17 +100,17 @@
         <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/products.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1260">
-              <caret line="84" column="80" lean-forward="true" selection-start-line="84" selection-start-column="80" selection-end-line="84" selection-end-column="80" />
+              <caret line="84" column="80" lean-forward="false" selection-start-line="84" selection-start-column="80" selection-end-line="84" selection-end-column="80" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project_E-Shop/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="329">
+              <caret line="75" column="55" lean-forward="true" selection-start-line="75" selection-start-column="55" selection-end-line="75" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -136,6 +133,7 @@
       <find>content</find>
       <find>map</find>
       <find>site</find>
+      <find>log</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -172,15 +170,22 @@
         <option value="$PROJECT_DIR$/Project_E-Shop/farmers/productions/peaches.php" />
         <option value="$PROJECT_DIR$/Project_E-Shop/farmers/productions/strawberry.php" />
         <option value="$PROJECT_DIR$/Project_E-Shop/farmers/productions/watermelon.php" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/css/style.css" />
         <option value="$PROJECT_DIR$/Project_E-Shop/Loginpage.php" />
         <option value="$PROJECT_DIR$/Project_E-Shop/farmers/products.php" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/index.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/css/style.css" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -191,8 +196,8 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
-    <option name="width" value="957" />
-    <option name="height" value="825" />
+    <option name="width" value="1280" />
+    <option name="height" value="731" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -209,6 +214,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,6 +231,12 @@
               <item name="cmpe281" type="b2602c69:ProjectViewProjectNode" />
               <item name="cmpe281" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Project_E-Shop" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cmpe281" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmpe281" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Project_E-Shop" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="farmers" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -232,7 +244,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,12 +292,13 @@
       <workItem from="1556585390855" duration="4467000" />
       <workItem from="1557186164851" duration="7456000" />
       <workItem from="1557280321075" duration="2810000" />
-      <workItem from="1557522904909" duration="50000" />
+      <workItem from="1557522904909" duration="1207000" />
+      <workItem from="1557717417021" duration="920000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27167000" />
+    <option name="totallyTimeSpent" value="29244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -298,12 +310,12 @@
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -514,7 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -537,23 +548,7 @@
     <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/productions/watermelon.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38115">
-          <caret line="2541" column="1" lean-forward="false" selection-start-line="2541" selection-start-column="1" selection-end-line="2541" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/farmer_navbar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="59" lean-forward="false" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+          <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -561,23 +556,7 @@
     <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/history.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="153" column="25" lean-forward="true" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/Loginpage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -585,15 +564,47 @@
     <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/products.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
-          <caret line="84" column="80" lean-forward="true" selection-start-line="84" selection-start-column="80" selection-end-line="84" selection-end-column="80" />
+          <caret line="84" column="80" lean-forward="false" selection-start-line="84" selection-start-column="80" selection-end-line="84" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/farmer_navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="33" column="59" lean-forward="false" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3920">
+          <caret line="291" column="10" lean-forward="false" selection-start-line="291" selection-start-column="10" selection-end-line="291" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project_E-Shop/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="329">
+          <caret line="75" column="55" lean-forward="true" selection-start-line="75" selection-start-column="55" selection-end-line="75" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="2701" column="10" lean-forward="true" selection-start-line="2701" selection-start-column="10" selection-end-line="2701" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/Loginpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="21" />
           <folding />
         </state>
       </provider>
