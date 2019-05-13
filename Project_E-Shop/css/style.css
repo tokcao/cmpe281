@@ -1352,7 +1352,8 @@ p.lo {
 }
 
 .artical-content img {
-    width: 100%;
+		width: 70%;
+		height: 70%;
 }
 
 .artical-links ul li span {
@@ -2743,4 +2744,41 @@ p.lo {
 
 .checked {
     color: orange;
+}
+
+.center_cao {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	/*width: 50%;*/
+}
+
+img {
+	border: 0;
+	max-width: 100%;
+	max-height: 100%;
+	/*width: auto;*/
+	/*height: auto;*/
+	/*opacity: 0.5;*/
+}
+
+#map {
+	height: 400px;
+	width: 100%;
+}
+
+#legend {
+	font-family: Arial, sans-serif;
+	background: #FFFFFF;
+	padding: 10px;
+	margin: 10px;
+	border: 3px solid #000000;
+}
+
+#legend h3 {
+	margin-top: 0;
+}
+
+#legend img {
+	vertical-align: middle;
 }
