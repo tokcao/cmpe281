@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Shopping Cart</title>
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+<!--======== All Stylesheet =========-->
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="css/font-awesome.min.css" rel="stylesheet">
+<link href="css/linearicons.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<link href="css/styleshopping.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">	
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- js -->
+<script src="js/jquery-1.11.1.min.js"></script>
+<script src="js/checkput.priceSum.js"></script>
+<!-- //js -->
+<!-- start-smoth-scrolling -->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){		
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+</script>
+<!-- start-smoth-scrolling -->
+<!-- pop-up-box -->
+	<link rel="stylesheet" type="text/css" href="css/jquery.lightbox.css">
+	<script src="js/jquery.lightbox.js"></script>
+	<script>
+	  // Initiate Lightbox
+	  $(function() {
+		$('.product-gd1 a').lightbox(); 
+	  });
+	</script>
+<!-- //pop-up-box -->
+<!-- menu -->
+<link href="css/component.css" rel="stylesheet" type="text/css"  />
+	<link href="css/style.css" rel="stylesheet">
+<!-- //menu -->
+<link href="http://fonts.useso.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+<link href="http://fonts.useso.com/css?family=Josefin+Sans:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
+</head>
+	
+<body>
+	<!-- header -->
+	<div class="header-top">
+		<div class="container">
+			<div class="header-top-left">
+			  <p>NEWS! We have a 15% discount for your first purchase!</p>
+			</div>
+			<div class="header-top-right1">
+				<p>log in</p>
+			</div>
+			<div class="header-top-right3">
+				<p><a href="#mail" class="scroll">contact us</a></p>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+	<div class="header">
+		<div class="container">
+			<div class="top-nav">
+					<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s2">
+						<h3>Menu</h3>
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="index.html">Cart [0]</a></li>
+						  <li><a href="#about" class="scroll">About</a></li>
+							<li><a href="#products" class="scroll">Products</a></li>
+							<li><a href="#event" class="scroll">Events</a></li>
+							<li><a href="#mail" class="scroll">Mail Us</a></li>
+						</ul>
+					</nav>
+					<div class="main buttonset">	
+							<!-- Class "cbp-spmenu-open" gets applied to menu and "cbp-spmenu-push-toleft" or "cbp-spmenu-push-toright" to the body -->
+							<button id="showRightPush"><img src="images/menu.png" alt=""/></button>
+							<!--<span class="menu"></span>-->
+					</div>
+					<!-- Classie - class helper functions by @desandro https://github.com/desandro/classie -->
+					<script src="js/classie.js"></script>
+					<script>
+					var menuRight = document.getElementById( 'cbp-spmenu-s2' ),
+					showRightPush = document.getElementById( 'showRightPush' ),
+					body = document.body;
+
+					showRightPush.onclick = function() {
+						classie.toggle( this, 'active' );
+						classie.toggle( body, 'cbp-spmenu-push-toleft' );
+						classie.toggle( menuRight, 'cbp-spmenu-open' );
+						disableOther( 'showRightPush' );
+					};
+
+					function disableOther( button ) {
+						if( button !== 'showRightPush' ) {
+							classie.toggle( showRightPush, 'disabled' );
+						}
+					}
+				 </script>
+			</div>
+			<div class="logo"><a href="index.html"><em class="glyphicon glyphicon-grain" aria-hidden="true"></em>Smart AgShop<span>To Raise Your Crops and Livestock!</span></a></div>
+			<div class="search">
+				<form>
+					<input type="text" value="Search here..." onFocus="this.value = '';" onBlur="if (this.value == '') {this.value = 'Search here...';}" required="">
+				</form>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+<!-- //header -->
+<!-- Single Product -->
+	<section class="single-product">
+         <div class="container">	
+                <div class="row">	
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div class="single-product-img">
+                            <img class="img-responsive" src="images/2.png" alt="" />
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <div class="single-product-detail">
+                            <div class="btn-group" role="group">
+                                <button type="button" class="btn btn-default active"><em class="fa fa-circle"></em> in Stock</button>
+                                <button type="button" class="btn btn-default"> 37 - in Stock</button>
+                            </div>
+                            <h3>California Pumpkin - sunny farm </h3>
+                            <ul class="list-inline">
+                              <li><i class="lnr lnr-star"></i></li>
+                                <li><i class="lnr lnr-star"></i></li>
+                                <li><i class="lnr lnr-star"></i></li>
+                                <li><i class="lnr lnr-star"></i></li>
+                                <li><i class="lnr lnr-star-half"></i></li>
+                                <li><span>5 - Reviews</span></li>
+                            </ul>
+                            <p>Pumpkins love California sunshine, and they grow abundantly throughout the land. There are very few places where you probably can't grow a pumpkin in California, in fact, and growing them is the basis of a celebration in Half Moon Bay called Half Moon Bay Art & Pumpkin Festival. </p>
+                            <table class="table table-responsive table-bordered">
+                                <tr>
+                                    <td>Category</td>
+                                    <td>
+                                        <ul class="list-inline">
+                                            <li>Brampton</li>
+                                            <li>Chicago Zucche</li>
+                                       		<li>Herbst </li>
+                                           
+                                      </ul>   
+                                    </td>
+                                </tr>
+                                 <tr>
+                                    <td>Quntity(lbs)</td>
+                                    <td>
+                                        <div class="quntity">
+											<form><input type="text" class="quantity" value="1" min="1" max="100000">
+											</form>
+									  </div>   
+                                    </td>
+                                </tr>
+                            </table>
+							<p class="unit" data-unit="4.99">$4.99 per pound</p>
+							<p class="price">Total: <span id="totalprice" class="price">$ 4.99</span></p>
+							
+                            <div class="add-cart">
+								<a class="btn btn-default" href="">
+									
+									Add to Cart</a></div>
+                        </div>    
+                    </div>    
+                </div>    
+            </div> 
+		</section>
+	
+        
+        <!-- Product description -->    
+		<section class="single-description">
+            <div cl class="container">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12 ">
+                        <div class="description-tab">
+                            <ul class="nav nav-tabs" role="tablist">
+                                <li role="presentation" class="active"><a href="#tab1" aria-controls="home" role="tab" data-toggle="tab">Description</a></li>
+                                <li role="presentation"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab">Question</a></li>
+                                <li role="presentation"><a href="#tab3" aria-controls="tab3" role="tab" data-toggle="tab">About</a></li>
+                                <li role="presentation"><a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab">Review</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div role="tabpanel" class="tab-pane active" id="tab1">
+                                    <h3>Sodales scelerisque nostra ut enim nulla</h3>
+                                    <p>Lorem ipsum dolor sit amet, nunc varius ligula vestibulum, porttitor lorem morbi amet. Arcu et massa a non, ac nulla eu. Urna neque cras, praesent unde eget. Vivamus sapien aliquam id, sodales scelerisque nostra ut enim nulla nulla. Venenatis eu mi justo augue dolor non. Tortor et donec wisi lectus pellentesque et. Mauris nisl sit vitae. Semper omnis netus, ligula lorem pretium, deserunt ipsum dui, etiam quisque est, sapien mauris adipiscing vitae iaculis vehicula neque. Aenean sed ac maecenas, arcu arcu in. Vestibulum phasellus mauris nibh est pretium, suspendisse facilisi dui quisque fusce penatibus.</p>
+                                </div>
+                                <div role="tabpanel" class="tab-pane" id="tab2">
+                                    <h3>What benefits does the company provide?</h3>
+                                    <p>Zero benefits. That's why we make you a private contractor rather than an hourly employee!
+We get to save tons of money while you struggle to put food on the table and have no health insurance.</p>
+									<h3>How long would  the diliverary?</h3>
+                                    <p>Technically it will needs 2-3 days for in-state diliveray, at most 5 week days in oversea.</p>
+									<h3>How could I change or cancel an order after I paid for this deal?</h3>
+                                    <p>To cancel an ASAP order, please call or chat with us. Make sure to call us right away, as we may not be able to cancel the order once the restaurant has made the food. If you scheduled an order for a future date, you can cancel it or make changes until four hours before the delivery time. To cancel or update a future order, click the “View details” link on the Orders page of our site or the “View order details” button in your order confirmation email. Once the order’s been cancelled, you’ll get another confirmation email.</p>
+                                </div>
+                                <div role="tabpanel" class="tab-pane" id="tab3">
+                                    <h3>Nunc varius is adipiscing vitae iaculis vehicula</h3>
+                                    <p>Lorem ipsum dolor sit amet, nunc varius ligula vestibulum, porttitor lorem morbi amet. Arcu et massa a non, ac nulla eu. Urna neque cras, praesent unde eget. Vivamus sapien aliquam id, sodales scelerisque nostra ut enim nulla nulla. Venenatis eu mi justo augue dolor non. Tortor et donec wisi lectus pellentesque et. Mauris nisl sit vitae. Semper omnis netus, ligula lorem pretium, deserunt ipsum dui, etiam quisque est, sapien mauris adipiscing vitae iaculis vehicula neque. Aenean sed ac maecenas, arcu arcu in. Vestibulum phasellus mauris nibh est pretium, suspendisse facilisi dui quisque fusce penatibus.</p>
+                                </div>
+                                <div role="tabpanel" class="tab-pane" id="tab4">
+                                    <h3>Praesent unde adipiscing vitae iaculis vehicula</h3>
+                                    <p>Lorem ipsum dolor sit amet, nunc varius ligula vestibulum, porttitor lorem morbi amet. Arcu et massa a non, ac nulla eu. Urna neque cras, praesent unde eget. Vivamus sapien aliquam id, sodales scelerisque nostra ut enim nulla nulla. Venenatis eu mi justo augue dolor non. Tortor et donec wisi lectus pellentesque et. Mauris nisl sit vitae. Semper omnis netus, ligula lorem pretium, deserunt ipsum dui, etiam quisque est, sapien mauris adipiscing vitae iaculis vehicula neque. Aenean sed ac maecenas, arcu arcu in. Vestibulum phasellus mauris nibh est pretium, suspendisse facilisi dui quisque fusce penatibus.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>    
+        </section>
+        
+          
+<!-- footer -->
+	<div class="footer">
+		<div class="footer-grids">
+		  <div class="container">
+			<div class="col-md-3 footer-grid">
+				<h4>Services</h4>
+				<ul>
+					<li><a href="#">Billing</a></li>
+					<li><a href="#">Blog</a></li>
+					<li><a href="#">order track</a></li>
+					<li><a href="#">return</a></li>
+				</ul>
+			</div>
+			<div class="col-md-3 footer-grid">
+				<h4>Information</h4>
+				 <ul>
+					<li><a href="#">farmer</a></li>
+					<li><a href="#">product</a></li>
+					<li><a href="#">Sensor system</a></li>
+					<li><a href="#">Our Staff</a></li>
+				</ul>
+			</div>
+			<div class="col-md-3 footer-grid">
+				<h4>More details</h4>
+				<ul>
+					<li><a href="#">About us</a></li>
+					<li><a href="#">Privacy Policy</a></li>
+					<li><a href="#">Terms &amp; Conditions</a></li>
+					<li><a href="#">Site map</a></li>
+				</ul>
+			</div>
+			 <div class="col-md-3 footer-grid contact-grid">
+					<h4>Contact us</h4>
+					<ul>
+						<li><span class="c-icon"> </span>San Jose State University</li>
+						<li><span class="c-icon1"> </span><a href="mailto:info@sjsu.edu"><p>mail@sjsu.edu</p></a></li>
+						<li><span class="c-icon2"> </span>One Washington Square, San Jose</li>
+					</ul>
+			 </div>
+			 <div class="clearfix"></div>
+		 </div>
+		</div>
+	</div>
+	<div class="copy">
+		 <p>Copyright &copy; 2019 E shop All rights reserved.</p>
+	</div>
+<!-- //footer -->
+<!-- for bootstrap working -->
+		<script src="js/bootstrap.js"> </script>
+<!-- //for bootstrap working -->
+</body>
+</html>
