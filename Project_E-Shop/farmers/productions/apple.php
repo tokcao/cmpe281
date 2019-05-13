@@ -1,3 +1,4 @@
+<?php require_once('./navbar_copy.php'); ?>
 <!DOCTYPE html>
 <html>
 <head>
