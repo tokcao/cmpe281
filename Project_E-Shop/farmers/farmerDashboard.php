@@ -9,10 +9,10 @@
         // Load Charts and the corechart package.
         google.charts.load('current', {'packages': ['corechart']});
 
-        // Draw the pie chart for feedback_30days's pizza when Charts is loaded.
+        // Draw the pie chart for feedback_30days's when Charts is loaded.
         google.charts.setOnLoadCallback(feedback_30days);
 
-        //Draw the line chart for XXXXXXXX
+        //Draw the line chart for line_quantity_sale_12m
         google.charts.setOnLoadCallback(line_quantity_sale_12m);
 
         //Draw the map
