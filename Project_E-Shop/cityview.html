@@ -92,8 +92,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <h3>Menu</h3>
                 <ul>
                     <li><a href="index.html">Home</a></li>
-                    <li><a href="#about" class="scroll">About</a></li>
+                    <!--                    <li><a href="#about" class="scroll">About</a></li>-->
                     <li><a href="#products" class="scroll">Products</a></li>
+                    <li><a href="#fruitmap" class="scroll">Fruit Map</a></li>
                     <li><a href="#event" class="scroll">Events</a></li>
                     <li><a href="#mail" class="scroll">Mail Us</a></li>
                 </ul>
@@ -508,7 +509,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="clearfix"></div>
         </div>
 
-        <div class="special">
+        <div class="special" id="fruitmap">
             <h4>Check out the map!</h4>
             <div class="special-grids">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -516,122 +517,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <div id="map"></div>
                 <div id="legend"><h3>Legend</h3></div>
                 <script>
-                    // var map;
-                    //
-                    // function initMap() {
-                    //     map = new google.maps.Map(document.getElementById('map'), {
-                    //         zoom: 7,
-                    //         center: new google.maps.LatLng(38.261761, -121.229021),
-                    //         mapTypeId: 'roadmap'
-                    //     });
-                    //
-                    //     // var iconBase = 'https://maps.google.com/mapfiles/kml/shapes/';
-                    //     var iconLocal = 'images/';
-                    //     var icons = {
-                    //         cherry: {
-                    //             name: 'Cherry',
-                    //             icon: iconLocal + 'cherry_maps.png'
-                    //         },
-                    //         orange: {
-                    //             name: 'Orange',
-                    //             icon: iconLocal + 'orange_maps.png'
-                    //         },
-                    //         grape: {
-                    //             name: 'Grape',
-                    //             icon: iconLocal + 'grape_maps.png'
-                    //         }
-                    //     };
-                    //
-                    //     var features = [
-                    //         {
-                    //             position: new google.maps.LatLng(38.261761, -121.229021),
-                    //             type: 'cherry'
-                    //         }, {
-                    //             position: new google.maps.LatLng(36.970201, -121.413188),
-                    //             type: 'orange'
-                    //         }, {
-                    //             position: new google.maps.LatLng(36.908155, -121.670846),
-                    //             type: 'grape'
-                    //         }, {
-                    //             position: new google.maps.LatLng(38.122848, -121.234823),
-                    //             type: 'cherry'
-                    //         }, {
-                    //             position: new google.maps.LatLng(37.021811, -121.436530),
-                    //             type: 'orange'
-                    //         }, {
-                    //             position: new google.maps.LatLng(38.190101, -121.673867),
-                    //             type: 'grape'
-                    //         }
-                    //
-                    //     ];
-                    //
-                    //     // Create markers.
-                    //     features.forEach(function (feature) {
-                    //         var marker = new google.maps.Marker({
-                    //             position: feature.position,
-                    //             icon: icons[feature.type].icon,
-                    //             map: map
-                    //         });
-                    //     });
-                    //
-                    //     var legend = document.getElementById('legend');
-                    //     for (var key in icons) {
-                    //         var type = icons[key];
-                    //         var name = type.name;
-                    //         var icon = type.icon;
-                    //         var div = document.createElement('div');
-                    //         div.innerHTML = '<img src="' + icon + '"> ' + name;
-                    //         legend.appendChild(div);
-                    //     }
-                    //
-                    //     map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(legend);
-                    // }
-                    //
-                    // // This example displays a marker at the center of Australia.
-                    // // When the user clicks the marker, an info window opens.
-                    //
-                    // function initMap() {
-                    //     var uluru = {lat: -25.363, lng: 131.044};
-                    //     var map = new google.maps.Map(document.getElementById('map'), {
-                    //         zoom: 4,
-                    //         center: uluru
-                    //     });
-                    //
-                    //     var contentString = '<div id="content">' +
-                    //         '<div id="siteNotice">' +
-                    //         '</div>' +
-                    //         '<h1 id="firstHeading" class="firstHeading">Uluru</h1>' +
-                    //         '<div id="bodyContent">' +
-                    //         '<p><b>Uluru</b>, also referred to as <b>Ayers Rock</b>, is a large ' +
-                    //         'sandstone rock formation in the southern part of the ' +
-                    //         'Northern Territory, central Australia. It lies 335&#160;km (208&#160;mi) ' +
-                    //         'south west of the nearest large town, Alice Springs; 450&#160;km ' +
-                    //         '(280&#160;mi) by road. Kata Tjuta and Uluru are the two major ' +
-                    //         'features of the Uluru - Kata Tjuta National Park. Uluru is ' +
-                    //         'sacred to the Pitjantjatjara and Yankunytjatjara, the ' +
-                    //         'Aboriginal people of the area. It has many springs, waterholes, ' +
-                    //         'rock caves and ancient paintings. Uluru is listed as a World ' +
-                    //         'Heritage Site.</p>' +
-                    //         '<p>Attribution: Uluru, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">' +
-                    //         'https://en.wikipedia.org/w/index.php?title=Uluru</a> ' +
-                    //         '(last visited June 22, 2009).</p>' +
-                    //         '</div>' +
-                    //         '</div>';
-                    //
-                    //     var infowindow = new google.maps.InfoWindow({
-                    //         content: contentString
-                    //     });
-                    //
-                    //     var marker = new google.maps.Marker({
-                    //         position: uluru,
-                    //         map: map,
-                    //         title: 'Uluru (Ayers Rock)'
-                    //     });
-                    //     marker.addListener('click', function () {
-                    //         infowindow.open(map, marker);
-                    //     });
-                    // }
-
 
                     // This example displays a marker at the center of Australia.
                     // When the user clicks the marker, an info window opens.
@@ -664,7 +549,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
                         var features = [
                             {
-                                position: new google.maps.LatLng(38.261761, -121.229021),
+                                position: new google.maps.LatLng(37.894612, -121.682009),
                                 type: 'cherry'
                             }, {
                                 position: new google.maps.LatLng(36.970201, -121.413188),
@@ -693,13 +578,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                         //         map: map
                         //     });
 
-                        // marker.addListener('click', function () {
-                        //     infowindow.open(map, marker);
-                        //     // infowindow2.open(map, marker);
-                        // });
-
-                        // });
-
 
                         var legend = document.getElementById('legend');
                         for (var key in icons) {
@@ -713,20 +591,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
                         map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(legend);
 
-                        var cherry1 = {lat: 38.261761, lng: -121.229021};
+                        var cherry1 = {lat: 37.894612, lng: -121.682009};
                         var contentString1 = '<div id="content">' +
                             '<div id="siteNotice">' +
                             '</div>' +
                             '<h1 id="firstHeading" class="firstHeading">Cherry</h1>' +
                             '<div id="bodyContent">' +
-                            '<p><b>Cherry Orchard 1</b>, <b>This is a nice place!</b></p>' +
+                            '<p><b>Chavez U-Pick Cherries</b>, <b>This is a nice place!</b><br>' +
+                            '23800 Marsh Creek Rd, Brentwood, CA 94513<br>' +
+                            '<a href="https://www.chavezupickcherries.com/">Check their website!</a> </p>' +
                             '</div>' +
                             '</div>';
                         var infowindow1 = new google.maps.InfoWindow({
                             content: contentString1
                         });
                         var marker1 = new google.maps.Marker({
-                            position: new google.maps.LatLng(38.261761, -121.229021),
+                            position: new google.maps.LatLng(37.894612, -121.682009),
                             icon: iconLocal + 'cherry_maps.png',
                             map: map,
                             title: 'Cherry Orchard 1'
@@ -852,48 +732,59 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <script async defer
                         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAzri9sI0Lrsg8_UC4cVLxYLTTLyVZiRt4&callback=initMap">
                 </script>
-                <!--<div class="col-md-4 special-grid">-->
-                <!--<div class="col-xs-4 special-grd-left">-->
-                <!--<p><span class="glyphicon glyphicon-scissors" aria-hidden="true"></span></p>-->
-                <!--</div>-->
-                <!--<div class="col-xs-8 special-grd">-->
-                <!--<h5>fugiat quo voluptas nulla pariatur</h5>-->
-                <!--<p>Nisi ut aliquid ex ea commodi consequatur? Quis autem-->
-                <!--vel eum iure reprehenderit qui in ea voluptate velit esse-->
-                <!--quam nihil molestiae consequatur.</p>-->
-                <!--</div>-->
-                <!--<div class="clearfix"></div>-->
-                <!--</div>-->
-                <!--<div class="col-md-4 special-grid">-->
-                <!--<div class="col-xs-4 special-grd-left">-->
-                <!--<p><span class="glyphicon glyphicon-user" aria-hidden="true"></span></p>-->
-                <!--</div>-->
-                <!--<div class="col-xs-8 special-grd">-->
-                <!--<h5>fugiat quo voluptas nulla pariatur</h5>-->
-                <!--<p>Nisi ut aliquid ex ea commodi consequatur? Quis autem-->
-                <!--vel eum iure reprehenderit qui in ea voluptate velit esse-->
-                <!--quam nihil molestiae consequatur.</p>-->
-                <!--</div>-->
-                <!--<div class="clearfix"></div>-->
-                <!--</div>-->
-                <!--<div class="col-md-4 special-grid">-->
-                <!--<div class="col-xs-4 special-grd-left">-->
-                <!--<p><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span></p>-->
-                <!--</div>-->
-                <!--<div class="col-xs-8 special-grd">-->
-                <!--<h5>fugiat quo voluptas nulla pariatur</h5>-->
-                <!--<p>Nisi ut aliquid ex ea commodi consequatur? Quis autem-->
-                <!--vel eum iure reprehenderit qui in ea voluptate velit esse-->
-                <!--quam nihil molestiae consequatur.</p>-->
-                <!--</div>-->
-                <!--<div class="clearfix"></div>-->
-                <!--</div>-->
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
+
+
+        <div class="special" id="Statistics">
+            <h4>Check out the Data!</h4>
+            <div class="special-grids">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+                <meta charset="utf-8">
+                <div class="clearfix">
+                    <div class="about-left">
+                        <h4>Fruits in California</h4>
+                    </div>
+                    <div class="about-right about-right-cao">
+                        <h4>Grape Price</h4>
+                    </div>
+                </div>
+                <div class="clearfix">
+                    <div class="about-left">
+                        <img src="CityData/ca_fruits_percentage.png" class="center_cao">
+                    </div>
+                    <div class="about-right about-right-cao">
+                        <img src="CityData/grape_price.png" class="center_cao">
+                    </div>
+                </div>
+                <br>
+                <div class="clearfix">
+
+                    <div class="about-left">
+                        <h4>Grape Volume</h4>
+                    </div>
+                    <div class="about-right about-right-cao">
+                        <h4>Grape Price vs Grape Volume</h4>
+                    </div>
+                </div>
+                <div class="clearfix">
+                    <div class="about-left">
+                        <img src="CityData/grape_volume.png" class="center_cao">
+                    </div>
+                    <div class="about-right about-right-cao">
+                        <img src="CityData/grape_prive_vs_volume.png">
+                    </div>
+                </div>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- //products -->
+
+
 <!-- products-bottom -->
 <div class="products-bottom">
     <div class="container">

@@ -628,8 +628,10 @@ ul.callbacks_tabs.callbacks2_tabs.callbacks_here a:after {
 /*-- //welcome --*/
 /*-- about --*/
 .about-left {
+    text-align: center;
     float: left;
     width: 50%;
+    height: 50%;
 }
 
 .about-left img {
@@ -639,8 +641,14 @@ ul.callbacks_tabs.callbacks2_tabs.callbacks_here a:after {
 .about-right {
     float: right;
     width: 50%;
-    padding: 7.54em 8em;
-    background: #ff4c4c;
+    height: 50%;
+    padding: 0 8em 7.54em 8em;
+    /*background: #ff4c4c;*/
+}
+
+.about-right-cao{
+    padding: 0 !important;
+    text-align: center;
 }
 
 .about-right h3 {
@@ -1650,7 +1658,8 @@ p.lo {
     }
 
     .about-right {
-        padding: 1.69em 1em;
+        padding: 0 1em 1.69em 1em;
+        text-align: center;
     }
 
     .our-advantages-grd-left p {
