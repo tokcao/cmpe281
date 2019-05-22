@@ -533,39 +533,61 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
                         var iconLocal = 'images/';
                         var icons = {
-                            cherry: {
-                                name: 'Cherry',
-                                icon: iconLocal + 'cherry_maps.png'
-                            },
-                            orange: {
-                                name: 'Orange',
-                                icon: iconLocal + 'orange_maps.png'
-                            },
-                            grape: {
-                                name: 'Grape',
-                                icon: iconLocal + 'grape_maps.png'
+                            // cherry: {
+                            //     name: 'Cherry',
+                            //     icon: iconLocal + 'cherry_maps.png'
+                            // },
+                            // orange: {
+                            //     name: 'Orange',
+                            //     icon: iconLocal + 'orange_maps.png'
+                            // },
+                            // grape: {
+                            //     name: 'Grape',
+                            //     icon: iconLocal + 'grape_maps.png'
+                            // },
+                            farm: {
+                                name: 'Farm',
+                                icon: iconLocal + 'farm.png'
                             }
                         };
 
                         var features = [
                             {
-                                position: new google.maps.LatLng(37.894612, -121.682009),
-                                type: 'cherry'
+                                /** 1. Nunn Better U-Pick Cherries */
+                                position: new google.maps.LatLng(37.946265, -121.677851),
+                                type: 'farm'
                             }, {
-                                position: new google.maps.LatLng(36.970201, -121.413188),
-                                type: 'orange'
+                                /** 2. Pease Ranch */
+                                position: new google.maps.LatLng(37.897712, -121.656340),
+                                type: 'farm'
                             }, {
-                                position: new google.maps.LatLng(36.908155, -121.670846),
-                                type: 'grape'
+                                /** 3. Pomeroy Farm Brentwood */
+                                position: new google.maps.LatLng(37.896384, -121.708624),
+                                type: 'farm'
                             }, {
-                                position: new google.maps.LatLng(38.122848, -121.234823),
-                                type: 'cherry'
+                                /** 4. Mike's U-Pick */
+                                position: new google.maps.LatLng(37.911892, -121.701542),
+                                type: 'farm'
                             }, {
-                                position: new google.maps.LatLng(37.021811, -121.436530),
-                                type: 'orange'
+                                /** 5. Swanton Berry Farm - U-Pick Coastways Ranch */
+                                position: new google.maps.LatLng(37.120382, -122.304923),
+                                type: 'farm'
                             }, {
-                                position: new google.maps.LatLng(38.190101, -121.673867),
-                                type: 'grape'
+                                /** 6. Gizdich Apple Picking */
+                                position: new google.maps.LatLng(36.949205, -121.713461),
+                                type: 'farm'
+                            }, {
+                                /** 7. Novakovich Orchards */
+                                position: new google.maps.LatLng(37.261330, -122.014080),
+                            }, {
+                                /** 8. Arya Farm Produce */
+                                position: new google.maps.LatLng(37.763935, -121.499791),
+                            }, {
+                                /** 9. Clearview Orchards */
+                                position: new google.maps.LatLng(36.935196, -121.818553),
+                            }, {
+                                /** 10. Lazy K Ranch Cherry U-Pick */
+                                position: new google.maps.LatLng(37.013247, -121.508616)
                             }
 
                         ];
@@ -591,138 +613,293 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
                         map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(legend);
 
-                        var cherry1 = {lat: 37.894612, lng: -121.682009};
+                        // var cherry1 = {lat: 37.946265, lng: -121.677851};
                         var contentString1 = '<div id="content">' +
                             '<div id="siteNotice">' +
                             '</div>' +
-                            '<h1 id="firstHeading" class="firstHeading">Cherry</h1>' +
+                            '<h1 id="firstHeading" class="firstHeading"><a href="farmer1.html">Welcome to Nunn Better U-Pick Cherries!</a></h1>' +
                             '<div id="bodyContent">' +
-                            '<p><b>Chavez U-Pick Cherries</b>, <b>This is a nice place!</b><br>' +
-                            '23800 Marsh Creek Rd, Brentwood, CA 94513<br>' +
-                            '<a href="https://www.chavezupickcherries.com/">Check their website!</a> </p>' +
+                            // '<p>' +
+
+                            '<p>We will be closed Sunday 5/19 due to the rain. We will reopen as soon as the parking lot dries. Thank you.</p>' +
+
+                            '<p>BE ADVISED: We will be open 7 days a week from 9am until 8pm unless there is heavy rain. With the rain in the forecast, we may be forced to close if our parking lot becomes too muddy. Thank you and we look forward to seeing you.</p>' +
+
+                            '<p>The cherries are $3.50 per pound.</p>' +
+
+                            '<p>Please follow along on Twitter for updates. @nunnbetterfarms</p>' +
+
+                            '<p>Read about us in Brentwood’s Harvest Time or download the Brentwood Harvest Time App. We are site #11!</p>' +
+                            '<p>More more information please call 925 634 2148 or follow us on Instagram and Twitter @nunnbetterfarms</p>' +
+
+                            '<p>Thank you!</p>' +
+
+                            '<p>Location:  2777 Sellers Avenue, Brentwood, California 94513</p>' +
                             '</div>' +
                             '</div>';
                         var infowindow1 = new google.maps.InfoWindow({
                             content: contentString1
                         });
                         var marker1 = new google.maps.Marker({
-                            position: new google.maps.LatLng(37.894612, -121.682009),
-                            icon: iconLocal + 'cherry_maps.png',
+                            position: new google.maps.LatLng(37.946265, -121.677851),
+                            icon: iconLocal + 'farm.png',
                             map: map,
-                            title: 'Cherry Orchard 1'
+                            title: 'Nunn Better U-Pick Cherries'
                         });
                         marker1.addListener('click', function () {
                             infowindow1.open(map, marker1);
                         });
 
-                        var cherry2 = {lat: 38.122848, lng: -121.234823};
+                        // var cherry2 = {lat: 37.911892, lng: -121.701542};
                         var contentString2 = '<div id="content">' +
                             '<div id="siteNotice">' +
                             '</div>' +
-                            '<h1 id="firstHeading" class="firstHeading">Cherry</h1>' +
+                            '<h1 id="firstHeading" class="firstHeading"><a href="farmer2.html">Mike\'s U-Pick</a></h1>' +
                             '<div id="bodyContent">' +
-                            '<p><b>Cherry Orchard 2</b>, <b>This is a good place!</b></p>' +
+                            '<p>In general, our orchards are open for only 4-6 weeks a year, starting in May of each year. <br>' +
+                            '<br>' +
+                            'We will provide a bucket for picking, and the bag-liner inside (provided) is what you’ll use to take home your fruit. <br>' +
+                            '<br>' +
+                            'Mike’s U-Pick is a proud member of ‘Harvest Time in Brentwood”.</p>' +
                             '</div>' +
                             '</div>';
                         var infowindow2 = new google.maps.InfoWindow({
                             content: contentString2,
                         });
                         var marker2 = new google.maps.Marker({
-                            position: new google.maps.LatLng(38.122848, -121.234823),
-                            icon: iconLocal + 'cherry_maps.png',
+                            position: new google.maps.LatLng(37.911892, -121.701542),
+                            icon: iconLocal + 'farm.png',
                             map: map,
-                            title: 'Cherry Orchard 2'
+                            title: 'Mike\'s U-Pick'
                         });
                         marker2.addListener('click', function () {
                             infowindow2.open(map, marker2);
                         });
 
-                        var orange1 = {lat: 36.970201, lng: -121.413188};
+                        // var orange1 = {lat: 37.897712, lng: -121.656340};
                         var contentString3 = '<div id="content">' +
                             '<div id="siteNotice">' +
                             '</div>' +
-                            '<h1 id="firstHeading" class="firstHeading">Orange</h1>' +
+                            '<h1 id="firstHeading" class="firstHeading"><a href="farmer3.html">Pease Ranch</a></h1>' +
                             '<div id="bodyContent">' +
-                            '<p><b>Orange Orchard 1</b>, <b>This is an amazing place!</b></p>' +
+                            '<p>We have been family owned and operated since 1983. Come and pick from our large selection of cherries and blackberries <br>' +
+                            'We offer a small picnic area (NO BBQ\'s) to customers only. This area fills up quickly and is on a first come first serve basis.  We ask that you please pick up your trash and dispose of it in the garbage cans provided for your use! <br>' +
+                            '<br>' +
+                            'We LOVE dogs, but due to health reasons THEY\'RE NOT ALLOWED AT THE RANCH.  Thank you for your understanding.</p>' +
                             '</div>' +
                             '</div>';
                         var infowindow3 = new google.maps.InfoWindow({
                             content: contentString3,
                         });
                         var marker3 = new google.maps.Marker({
-                            position: new google.maps.LatLng(36.970201, -121.413188),
-                            icon: iconLocal + 'orange_maps.png',
+                            position: new google.maps.LatLng(37.897712, -121.656340),
+                            icon: iconLocal + 'farm.png',
                             map: map,
-                            title: 'Orange Orchard 1'
+                            title: 'Pease Ranch'
                         });
                         marker3.addListener('click', function () {
                             infowindow3.open(map, marker3);
                         });
 
-                        var orange2 = {lat: 37.021811, lng: -121.436530};
+
+                        // var orange2 = {lat: 37.896384, lng: -121.708624};
                         var contentString4 = '<div id="content">' +
                             '<div id="siteNotice">' +
                             '</div>' +
-                            '<h1 id="firstHeading" class="firstHeading">Orange</h1>' +
+                            '<h1 id="firstHeading" class="firstHeading"><a href="farmer4.html">Pomeroy Farm Brentwood</a></h1>' +
                             '<div id="bodyContent">' +
-                            '<p><b>Orange Orchard 2</b>, <b>This is a great place!</b></p>' +
+                            '<p>Pomeroy Farm is located in <br>' +
+                            'Brentwood, California.<br>' +
+                            '<br>' +
+                            'We offer a variety of u-pick cherries, peaches, nectarines and apricots.<br>' +
+                            '<br>' +
+                            'Come Visit to Pick Your Fresh Fruit!<br>' +
+                            'We offer a variety of cherries including Bing, White Rainier, and Brooks cherries.  In addition, we have the best peaches, nectarines and apricots around!  At each of the farms we also offer fresh picked walnuts that are shelled and packaged.  The walnuts also come from my various orchards. <br>' +
+                            '<br></p>' +
                             '</div>' +
                             '</div>';
                         var infowindow4 = new google.maps.InfoWindow({
                             content: contentString4,
                         });
                         var marker4 = new google.maps.Marker({
-                            position: new google.maps.LatLng(37.021811, -121.436530),
-                            icon: iconLocal + 'orange_maps.png',
+                            position: new google.maps.LatLng(37.896384, -121.708624),
+                            icon: iconLocal + 'farm.png',
                             map: map,
-                            title: 'Orange Orchard 2'
+                            title: 'Pomeroy Farm Brentwood'
                         });
                         marker4.addListener('click', function () {
                             infowindow4.open(map, marker4);
                         });
 
-                        var grape1 = {lat: 36.908155, lng: -121.670846};
+
+                        // var grape1 = {lat: 37.120382, lng: -122.304923};
                         var contentString5 = '<div id="content">' +
                             '<div id="siteNotice">' +
                             '</div>' +
-                            '<h1 id="firstHeading" class="firstHeading">Grape</h1>' +
+                            '<h1 id="firstHeading" class="firstHeading"><a href="farmer5.html">Swanton Berry Farm - U-Pick Coastways Ranch</a> </h1>' +
                             '<div id="bodyContent">' +
-                            '<p><b>Grape Orchard 1</b>, <b>This is a fun place!</b></p>' +
+                            '<p><b>Farm Stand:</b> <br>' +
+                            'Stop by for some fresh berry pies, strawberry shortcakes, delicious hot soup, strawberry lemonade, strawberry apple cider & more! Enjoy these treats in our sheltered stand over a boardgame or a good read. <br>' +
+                            '<br>' +
+                            '<b>Organic Strawberry U-Pick</b> <br>' +
+                            'Our Organic Strawberry U-Pick is open daily from 8am-6:30pm. The Organic Strawberries are $5 per pound. You must pay for everything you pick and we provide boxes and baskets! Please wear farm appropriate clothing, layers, and closed toe shoes. You will likely experience some mud and lots of wind. We love animals but they ARE NOT ALLOWED in the fields.</p>' +
                             '</div>' +
                             '</div>';
                         var infowindow5 = new google.maps.InfoWindow({
                             content: contentString5,
                         });
                         var marker5 = new google.maps.Marker({
-                            position: new google.maps.LatLng(36.908155, -121.670846),
-                            icon: iconLocal + 'grape_maps.png',
+                            position: new google.maps.LatLng(37.120382, -122.304923),
+                            icon: iconLocal + 'farm.png',
                             map: map,
-                            title: 'Grape Orchard 1'
+                            title: 'Swanton Berry Farm - U-Pick Coastways Ranch'
                         });
                         marker5.addListener('click', function () {
                             infowindow5.open(map, marker5);
                         });
 
-                        var grape2 = {lat: 38.190101, lng: -121.673867};
+
+                        // var grape2 = {lat: 36.949205, lng: -121.713461};
                         var contentString6 = '<div id="content">' +
                             '<div id="siteNotice">' +
                             '</div>' +
-                            '<h1 id="firstHeading" class="firstHeading">Grape</h1>' +
+                            '<h1 id="firstHeading" class="firstHeading"><a href="farmer6.html">Gizdich Apple Picking</a> </h1>' +
                             '<div id="bodyContent">' +
-                            '<p><b>Grape Orchard 2</b>, <b>This is a wonderful place!</b></p>' +
+                            '<p><strong>Get out of the city and spend a day with your family in the fresh air of the countryside.</strong> <br><br>' +
+                            '<b>The Experience</b><br>' +
+                            'Spend a day with your family at our family ranch and breathe in the fresh air and countryside atmosphere. <br>' +
+                            '<br>' +
+                            'Pick your favorite fruit of the season right off the tree or vine; then, picnic among the apple trees and the hills. <br>' +
+                            '<br>' +
+                            'Take home a jar (or two) of fresh berry jams, a jug of our fresh pressed apple juice, and eat the best pies this side of the Rockies!</p>' +
                             '</div>' +
                             '</div>';
                         var infowindow6 = new google.maps.InfoWindow({
                             content: contentString6,
                         });
                         var marker6 = new google.maps.Marker({
-                            position: new google.maps.LatLng(38.190101, -121.673867),
-                            icon: iconLocal + 'grape_maps.png',
+                            position: new google.maps.LatLng(36.949205, -121.713461),
+                            icon: iconLocal + 'farm.png',
                             map: map,
-                            title: 'Grape Orchard 2'
+                            title: 'Gizdich Apple Picking'
                         });
                         marker6.addListener('click', function () {
                             infowindow6.open(map, marker6);
+                        });
+
+
+                        var contentString7 = '<div id="content">' +
+                            '<div id="siteNotice">' +
+                            '</div>' +
+                            '<h1 id="firstHeading" class="firstHeading"><a href="farmer7.html">Novakovich Orchards</a> </h1>' +
+                            '<div id="bodyContent">' +
+                            '<p><strong>Fruit and Produce Stand only</strong> <br>' +
+                            'NOVAKOVICH ORCHARDS <br>' +
+                            'We do not allow our customers to pick their own fruit.  However, we have a fruit stand that sells seasonal fresh cherries, apricots, peaches, nectarines, prunes, walnuts, almonds, sun sweetened corn, vine ripened tomatoes and our well known Chocolate Dipped Apricots and Chocolate Turtles.  Year round dried fruit, assorted jams and jellies, and local honey!</p>' +
+                            '</div>' +
+                            '</div>';
+                        var infowindow7 = new google.maps.InfoWindow({
+                            content: contentString7,
+                        });
+                        var marker7 = new google.maps.Marker({
+                            position: new google.maps.LatLng(37.261330, -122.014080),
+                            icon: iconLocal + 'farm.png',
+                            map: map,
+                            title: 'Novakovich Orchards'
+                        });
+                        marker7.addListener('click', function () {
+                            infowindow7.open(map, marker7);
+                        });
+
+
+                        var contentString8 = '<div id="content">' +
+                            '<div id="siteNotice">' +
+                            '</div>' +
+                            '<h1 id="firstHeading" class="firstHeading"><a href="farmer8.html">Arya Farm Produce</a> </h1>' +
+                            '<div id="bodyContent">' +
+                            '<p><strong>We believe in sustainable, local, organic farming practices.</strong>> <br><br>' +
+                            '<b>Local Raw Honey</b> <br>' +
+                            'Our very own honeybees give us this lovely raw honey, available year-round in our store. <br><br>' +
+                            '<b>Pomegranates</b> <br>' +
+                            'In the fall, “U-Pick” Pomegranates are available.  Stop by, grab a bucket, and pick as many fresh pomegranates as you like! <br><br>' +
+                            '<b>Pumpkin Patch</b> <br>' +
+                            'In October, we sell our home-grown organic pumpkins in our own little pumpkin patch! Lots of varieties available and perfect for kids of all ages!</p>' +
+                            '</div>' +
+                            '</div>';
+                        var infowindow8 = new google.maps.InfoWindow({
+                            content: contentString8,
+                        });
+                        var marker8 = new google.maps.Marker({
+                            position: new google.maps.LatLng(37.763935, -121.499791),
+                            icon: iconLocal + 'farm.png',
+                            map: map,
+                            title: 'Arya Farm Produce'
+                        });
+                        marker8.addListener('click', function () {
+                            infowindow8.open(map, marker8);
+                        });
+
+
+                        var contentString9 = '<div id="content">' +
+                            '<div id="siteNotice">' +
+                            '</div>' +
+                            '<h1 id="firstHeading" class="firstHeading"><a href="farmer9.html">Clearview Orchards\n</a> </h1>' +
+                            '<div id="bodyContent">' +
+                            '<p><strong>Clearview Organic Orchards</strong> <br><br>' +
+                            'Fuji, Gala, Honey Crisp, Mutsu CCOF Certified Organic Apples <br>' +
+                            '<br>' +
+                            '<b>Closed for 2018 Apple season. Open mid September 2019</b> <br>' +
+                            '<br>' +
+                            'Also local honey, certified organic squash and fresh pressed organic apple juice, dried lavender and our famous fresh baked apple turnovers <br>' +
+                            '<br>' +
+                            '<br>' +
+                            'Hours 10Am to 4PM Saturday and Sunday only</p>' +
+                            '</div>' +
+                            '</div>';
+                        var infowindow9 = new google.maps.InfoWindow({
+                            content: contentString9,
+                        });
+                        var marker9 = new google.maps.Marker({
+                            position: new google.maps.LatLng(36.935196, -121.818553),
+                            icon: iconLocal + 'farm.png',
+                            map: map,
+                            title: 'Clearview Orchards'
+                        });
+                        marker9.addListener('click', function () {
+                            infowindow9.open(map, marker9);
+                        });
+
+
+                        var contentString10 = '<div id="content">' +
+                            '<div id="siteNotice">' +
+                            '</div>' +
+                            '<h1 id="firstHeading" class="firstHeading"><a href="farmer7.html">Lazy K Ranch Cherry U-Pick</a> </h1>' +
+                            '<div id="bodyContent">' +
+                            '<p><strong>Closed until 2019 season starts, so please check back later for updates. ' +
+                            'We think we may possibly open around June 15th weekend. ' +
+                            'It depends on weather and many variables, so it is hard to predict. ' +
+                            'It has been very cool so the cherries are progressing very slowly, much later than usual!</strong> <br> <br>' +
+                            ' ***No roundup/glyphosate used!  And only organic certified pest spray. *** <br>' +
+                            '<br>' +
+                            'Gilroy has more than Garlic! ' +
+                            'Known for our acres of Garlic fields, and acres of great discount shopping at the Gilroy Outlets, ' +
+                            'Gilroy also has acres of Cherry orchards with delicious juicy cherries. ' +
+                            'Some growers allow you to pick your own cherries during the peak season which is usually late May through early June for our varieties. ' +
+                            'Here at the Lazy K Ranch we have over 1000 cherry trees including Bings, Brooks, and Vans (dark red sweet cherries), ' +
+                            'all organic use approved sprays only, for your picking enjoyment (please check back often for changes to operating hours). </p>' +
+                            '</div>' +
+                            '</div>';
+                        var infowindow10 = new google.maps.InfoWindow({
+                            content: contentString10,
+                        });
+                        var marker10 = new google.maps.Marker({
+                            position: new google.maps.LatLng(37.013247, -121.508616),
+                            icon: iconLocal + 'farm.png',
+                            map: map,
+                            title: 'Lazy K Ranch Cherry U-Pick'
+                        });
+                        marker10.addListener('click', function () {
+                            infowindow10.open(map, marker10);
                         });
 
                     }
