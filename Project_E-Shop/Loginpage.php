@@ -5,7 +5,7 @@ if (!empty($_POST['username']) && !empty($_POST['password'])) {
     $password = $_POST['password'];
     if ($username == 'farmer' && $password == 'farmer') {
         $_SESSION['user'] = $username;
-        header("location: ./farmers/farmerDashboard.php");
+        header("location: ./old_farmers/farmerDashboard.php");
     } else if ($username == 'cityman' && $password == 'cityman') {
         $_SESSION['user'] = $username;
         header("location: ./cityview.html");

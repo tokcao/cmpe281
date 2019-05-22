@@ -646,7 +646,7 @@ ul.callbacks_tabs.callbacks2_tabs.callbacks_here a:after {
     background: #ff4c4c;
 }
 
-.about-right-cao{
+.about-right-cao {
     padding: 0 !important;
     text-align: center;
 }
@@ -1084,6 +1084,7 @@ p.lo {
 .footer {
     padding: 4em 0 3em;
     background-color: #383737;
+    margin-top: 24px;
 }
 
 .footer-grid h4 {
@@ -1360,8 +1361,8 @@ p.lo {
 }
 
 .artical-content img {
-		width: 70%;
-		height: 70%;
+    width: 70%;
+    height: 70%;
 }
 
 .artical-links ul li span {
@@ -2756,48 +2757,46 @@ p.lo {
 }
 
 .center_cao {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	/*width: 50%;*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /*width: 50%;*/
 }
 
 img {
-	border: 0;
-	max-width: 100%;
-	max-height: 100%;
-	/*width: auto;*/
-	/*height: auto;*/
-	/*opacity: 0.5;*/
+    border: 0;
+    max-width: 100%;
+    max-height: 100%;
+    /*width: auto;*/
+    /*height: auto;*/
+    /*opacity: 0.5;*/
 }
 
 #map {
-	height: 400px;
-	width: 100%;
+    height: 400px;
+    width: 100%;
 }
 
 #legend {
-	font-family: Arial, sans-serif;
-	background: #FFFFFF;
-	padding: 10px;
-	margin: 10px;
-	border: 3px solid #000000;
+    font-family: Arial, sans-serif;
+    background: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid #000000;
 }
 
 #legend h3 {
-	margin-top: 0;
+    margin-top: 0;
 }
 
 #legend img {
-	vertical-align: middle;
+    vertical-align: middle;
 }
-
-
 
 button#back {
     width: 130px;
     height: 40px;
-    background: linear-gradient(to bottom, #4eb5e5 0%,#389ed5 100%); /* W3C */
+    background: linear-gradient(to bottom, #4eb5e5 0%, #389ed5 100%); /* W3C */
     border: none;
     border-radius: 5px;
     position: relative;
@@ -2805,11 +2804,11 @@ button#back {
     color: #fbfbfb;
     font-weight: 600;
     font-family: 'Open Sans', sans-serif;
-    text-shadow: 1px 1px 1px rgba(0,0,0,.4);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .4);
     font-size: 15px;
     text-align: right;
     text-indent: 5px;
-    box-shadow: 0px 3px 0px 0px rgba(0,0,0,.2);
+    box-shadow: 0px 3px 0px 0px rgba(0, 0, 0, .2);
     cursor: pointer;
 
     /* Just for presentation */
