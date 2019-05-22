@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe121b2c-5c01-4e6f-a943-6731d9df6842" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/farmers/Arya.html" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/Arya.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/farmers/Clearview.html" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/Clearview.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/farmers/Gizdich.html" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/Gizdich.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/farmers/LazyK.html" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/LazyK.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/farmers/Mike.html" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/Mike.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/farmers/Novakovich.html" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/Novakovich.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/farmers/NunnBetter.html" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/NunnBetter.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/farmers/PeaseRanch.html" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/PeaseRanch.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/farmers/Pomeroy.html" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/Pomeroy.html" />
       <change beforePath="$PROJECT_DIR$/Project_E-Shop/farmers/Swanton.html" afterPath="$PROJECT_DIR$/Project_E-Shop/farmers/Swanton.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/images/blueberry_square.jpg" afterPath="$PROJECT_DIR$/Project_E-Shop/images/blueberry_square.jpg" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/images/grape_square.jpg" afterPath="$PROJECT_DIR$/Project_E-Shop/images/grape_square.jpg" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/images/patato_circle.jpg" afterPath="$PROJECT_DIR$/Project_E-Shop/images/potato_circle.jpg" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/products/shopping-apple.html" afterPath="$PROJECT_DIR$/Project_E-Shop/products/shopping-apple.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/products/shopping-blueberry.html" afterPath="$PROJECT_DIR$/Project_E-Shop/products/shopping-blueberry.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/products/shopping-cherrytomato.html" afterPath="$PROJECT_DIR$/Project_E-Shop/products/shopping-cherrytomato.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/products/shopping-grape.html" afterPath="$PROJECT_DIR$/Project_E-Shop/products/shopping-grape.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/products/shopping-mango.html" afterPath="$PROJECT_DIR$/Project_E-Shop/products/shopping-mango.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/products/shopping-pepper.html" afterPath="$PROJECT_DIR$/Project_E-Shop/products/shopping-pepper.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/products/shopping-pumpkin.html" afterPath="$PROJECT_DIR$/Project_E-Shop/products/shopping-pumpkin.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/products/shopping-strawberry.html" afterPath="$PROJECT_DIR$/Project_E-Shop/products/shopping-strawberry.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/products/shoppint-potato.html" afterPath="$PROJECT_DIR$/Project_E-Shop/products/shopping-potato.html" />
+      <change beforePath="$PROJECT_DIR$/Project_E-Shop/products/shoppint-watermelon.html" afterPath="$PROJECT_DIR$/Project_E-Shop/products/shopping-watermelon.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,127 +36,111 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Swanton.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Swanton.html">
+      <file leaf-file-name="shopping-watermelon.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-watermelon.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="168" column="40" lean-forward="false" selection-start-line="168" selection-start-column="40" selection-end-line="168" selection-end-column="40" />
+            <state relative-caret-position="219">
+              <caret line="191" column="0" lean-forward="false" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shopping-strawberry.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-strawberry.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="193" column="31" lean-forward="true" selection-start-line="193" selection-start-column="31" selection-end-line="193" selection-end-column="31" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/index.html">
+      <file leaf-file-name="shopping-potato.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-potato.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="194" column="79" lean-forward="true" selection-start-line="194" selection-start-column="79" selection-end-line="194" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shopping-pepper.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-pepper.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="557">
+              <caret line="194" column="79" lean-forward="false" selection-start-line="194" selection-start-column="79" selection-end-line="194" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shopping-mango.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-mango.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="194" column="79" lean-forward="true" selection-start-line="194" selection-start-column="79" selection-end-line="194" selection-end-column="79" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shopping-grape.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-grape.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="193" column="79" lean-forward="true" selection-start-line="193" selection-start-column="79" selection-end-line="193" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shopping-cherrytomato.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-cherrytomato.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="194" column="79" lean-forward="true" selection-start-line="194" selection-start-column="79" selection-end-line="194" selection-end-column="79" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shopping-blueberry.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-blueberry.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="482" column="93" lean-forward="true" selection-start-line="482" selection-start-column="93" selection-end-line="482" selection-end-column="93" />
+              <caret line="193" column="79" lean-forward="true" selection-start-line="193" selection-start-column="79" selection-end-line="193" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shopping-apple.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-apple.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="566">
+              <caret line="192" column="79" lean-forward="true" selection-start-line="192" selection-start-column="79" selection-end-line="192" selection-end-column="79" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pomeroy.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Pomeroy.html">
+      <file leaf-file-name="shopping-pumpkin.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-pumpkin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="91" column="72" lean-forward="true" selection-start-line="91" selection-start-column="72" selection-end-line="91" selection-end-column="72" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PeaseRanch.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/PeaseRanch.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="91" column="20" lean-forward="false" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NunnBetter.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/NunnBetter.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="91" column="72" lean-forward="true" selection-start-line="91" selection-start-column="72" selection-end-line="91" selection-end-column="72" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Novakovich.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Novakovich.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="126" column="20" lean-forward="false" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="20" />
+            <state relative-caret-position="464">
+              <caret line="187" column="79" lean-forward="true" selection-start-line="187" selection-start-column="79" selection-end-line="187" selection-end-column="79" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gizdich.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Gizdich.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="127" column="8" lean-forward="false" selection-start-line="127" selection-start-column="8" selection-end-line="127" selection-end-column="8" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mike.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Mike.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="91" column="72" lean-forward="true" selection-start-line="91" selection-start-column="72" selection-end-line="91" selection-end-column="72" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Arya.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Arya.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="126" column="24" lean-forward="false" selection-start-line="126" selection-start-column="24" selection-end-line="126" selection-end-column="24" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LazyK.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/LazyK.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="126" column="17" lean-forward="false" selection-start-line="126" selection-start-column="17" selection-end-line="126" selection-end-column="17" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -163,15 +170,21 @@
       <find>image</find>
       <find>mengo</find>
       <find>stra</find>
-      <find>mango</find>
-      <find>pump</find>
       <find>apple</find>
       <find>swant</find>
       <find>&lt;li&gt;&lt;a href=&quot;../shopping-sum.html&quot;&gt;Cart [0]&lt;/a&gt;&lt;/li&gt;</find>
       <find>swa</find>
       <find>cart</find>
-      <find>waterme</find>
       <find>swan</find>
+      <find>pot</find>
+      <find>chil</find>
+      <find>mango</find>
+      <find>waterme</find>
+      <find>pepper</find>
+      <find>blueb</find>
+      <find>water</find>
+      <find>pump</find>
+      <find>cher</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -180,12 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cityview/Secure.html" />
-        <option value="$PROJECT_DIR$/cityview/Secure.php" />
-        <option value="$PROJECT_DIR$/cityview/Services.html" />
-        <option value="$PROJECT_DIR$/cityview/style/style.css" />
-        <option value="$PROJECT_DIR$/cityview/Fruits.html" />
-        <option value="$PROJECT_DIR$/gulian_project281_eshop/Loginpage.php" />
         <option value="$PROJECT_DIR$/Project_E-Shop/farmers/apple.php" />
         <option value="$PROJECT_DIR$/Project_E-Shop/farmers/farmer_navbar.php" />
         <option value="$PROJECT_DIR$/Project_E-Shop/farmers/productions/apricots.php" />
@@ -210,27 +217,33 @@
         <option value="$PROJECT_DIR$/Project_E-Shop/farmers/farmerDashboard.php" />
         <option value="$PROJECT_DIR$/Project_E-Shop/new_farmer/farmer1.php" />
         <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-starwberry.html" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-pumpkin.html" />
         <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-mengo.html" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-cherrytomato.html" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-apple.html" />
         <option value="$PROJECT_DIR$/Project_E-Shop/cityview.html" />
         <option value="$PROJECT_DIR$/Project_E-Shop/css/style.css" />
         <option value="$PROJECT_DIR$/Project_E-Shop/farmers/Swanton.php" />
         <option value="$PROJECT_DIR$/Project_E-Shop/farmers/NummBetter.html" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-mango.html" />
         <option value="$PROJECT_DIR$/Project_E-Shop/farmers/PeaseRank.html" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/Mike.html" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/NunnBetter.html" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/PeaseRanch.html" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/Pomeroy.html" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/Gizdich.html" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/Novakovich.html" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/Arya.html" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/Clearview.html" />
-        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/LazyK.html" />
         <option value="$PROJECT_DIR$/Project_E-Shop/index.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/LazyK.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/NunnBetter.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/Mike.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/Gizdich.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/Clearview.html" />
         <option value="$PROJECT_DIR$/Project_E-Shop/farmers/Swanton.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/PeaseRanch.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/Arya.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/Pomeroy.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/farmers/Novakovich.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-watermelon.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-strawberry.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-pumpkin.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-potato.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-pepper.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-mango.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-grape.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-cherrytomato.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-blueberry.html" />
+        <option value="$PROJECT_DIR$/Project_E-Shop/products/shopping-apple.html" />
       </list>
     </option>
   </component>
@@ -251,8 +264,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="y" value="23" />
+    <option name="width" value="1088" />
+    <option name="height" value="827" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -280,12 +294,6 @@
               <item name="cmpe281" type="b2602c69:ProjectViewProjectNode" />
               <item name="cmpe281" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Project_E-Shop" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="cmpe281" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cmpe281" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Project_E-Shop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="farmers" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="cmpe281" type="b2602c69:ProjectViewProjectNode" />
@@ -367,12 +375,12 @@
       <workItem from="1557522904909" duration="1207000" />
       <workItem from="1557717417021" duration="8286000" />
       <workItem from="1558425328153" duration="190000" />
-      <workItem from="1558499452512" duration="11190000" />
+      <workItem from="1558499452512" duration="14773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47990000" />
+    <option name="totallyTimeSpent" value="51573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -434,86 +442,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/old_farmers/images/strawberries.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/strawberry.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/watermelon_square.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/._cherry_maps.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/cherry_maps.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/blueberry.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/bloodorange.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/img-sp.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/img-sprite.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/kiwi.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/lime.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/menu.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/next.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/orange_maps.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -534,22 +462,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-strawberry.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1170">
-          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/7.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/potato_square.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -612,37 +525,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-cherrytomato.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="88" column="72" lean-forward="false" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="72" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-mango.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-pumpkin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="88" column="72" lean-forward="false" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="72" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project_E-Shop/cityview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/Loginpage.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -658,44 +557,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-apple.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="88" column="72" lean-forward="true" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="72" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Clearview.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="126" column="20" lean-forward="false" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="20" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/LazyK.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="126" column="17" lean-forward="false" selection-start-line="126" selection-start-column="17" selection-end-line="126" selection-end-column="17" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project_E-Shop/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="482" column="93" lean-forward="true" selection-start-line="482" selection-start-column="93" selection-end-line="482" selection-end-column="93" />
+          <caret line="482" column="60" lean-forward="true" selection-start-line="482" selection-start-column="60" selection-end-line="482" selection-end-column="60" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/Presentation1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/potato_square.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/potato_circle.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/grape.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/grape_circle.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/grape_maps.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/grape_square.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/blueberry_square.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/img-sp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/images/blueberry_square.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Gizdich.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="206" column="18" lean-forward="false" selection-start-line="206" selection-start-column="18" selection-end-line="206" selection-end-column="18" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Mike.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="188" column="18" lean-forward="false" selection-start-line="188" selection-start-column="18" selection-end-line="188" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/PeaseRanch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="158" column="12" lean-forward="false" selection-start-line="158" selection-start-column="12" selection-end-line="172" selection-end-column="18" />
+          <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -703,19 +651,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Arya.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="126" column="24" lean-forward="false" selection-start-line="126" selection-start-column="24" selection-end-line="126" selection-end-column="24" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Swanton.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="168" column="40" lean-forward="false" selection-start-line="168" selection-start-column="40" selection-end-line="168" selection-end-column="40" />
+        <state relative-caret-position="235">
+          <caret line="143" column="12" lean-forward="true" selection-start-line="143" selection-start-column="12" selection-end-line="157" selection-end-column="18" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -725,19 +662,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Pomeroy.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="91" column="72" lean-forward="true" selection-start-line="91" selection-start-column="72" selection-end-line="91" selection-end-column="72" />
+        <state relative-caret-position="346">
+          <caret line="204" column="18" lean-forward="false" selection-start-line="204" selection-start-column="18" selection-end-line="204" selection-end-column="18" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/PeaseRanch.html">
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/LazyK.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="91" column="20" lean-forward="false" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
+        <state relative-caret-position="769">
+          <caret line="279" column="6" lean-forward="true" selection-start-line="279" selection-start-column="6" selection-end-line="279" selection-end-column="6" />
           <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Swanton.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="218" column="47" lean-forward="true" selection-start-line="218" selection-start-column="47" selection-end-line="218" selection-end-column="47" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Clearview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="186" column="18" lean-forward="false" selection-start-line="186" selection-start-column="18" selection-end-line="186" selection-end-column="18" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -745,18 +705,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/NunnBetter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="91" column="72" lean-forward="true" selection-start-line="91" selection-start-column="72" selection-end-line="91" selection-end-column="72" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Mike.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="91" column="72" lean-forward="true" selection-start-line="91" selection-start-column="72" selection-end-line="91" selection-end-column="72" />
+        <state relative-caret-position="129">
+          <caret line="174" column="12" lean-forward="false" selection-start-line="174" selection-start-column="12" selection-end-line="187" selection-end-column="18" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
@@ -765,8 +715,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Novakovich.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="126" column="20" lean-forward="false" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="20" />
+        <state relative-caret-position="520">
+          <caret line="235" column="18" lean-forward="false" selection-start-line="235" selection-start-column="18" selection-end-line="235" selection-end-column="18" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -774,13 +724,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project_E-Shop/farmers/Gizdich.html">
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-watermelon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="127" column="8" lean-forward="false" selection-start-line="127" selection-start-column="8" selection-end-line="127" selection-end-column="8" />
+        <state relative-caret-position="219">
+          <caret line="191" column="0" lean-forward="false" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-pumpkin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="187" column="79" lean-forward="true" selection-start-line="187" selection-start-column="79" selection-end-line="187" selection-end-column="79" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-strawberry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="193" column="31" lean-forward="true" selection-start-line="193" selection-start-column="31" selection-end-line="193" selection-end-column="31" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-potato.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="194" column="79" lean-forward="true" selection-start-line="194" selection-start-column="79" selection-end-line="194" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-pepper.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="194" column="79" lean-forward="false" selection-start-line="194" selection-start-column="79" selection-end-line="194" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-mango.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="194" column="79" lean-forward="true" selection-start-line="194" selection-start-column="79" selection-end-line="194" selection-end-column="79" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-grape.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="193" column="79" lean-forward="true" selection-start-line="193" selection-start-column="79" selection-end-line="193" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-cherrytomato.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="194" column="79" lean-forward="true" selection-start-line="194" selection-start-column="79" selection-end-line="194" selection-end-column="79" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-blueberry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="193" column="79" lean-forward="true" selection-start-line="193" selection-start-column="79" selection-end-line="193" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_E-Shop/products/shopping-apple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="192" column="79" lean-forward="true" selection-start-line="192" selection-start-column="79" selection-end-line="192" selection-end-column="79" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
